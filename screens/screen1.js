@@ -17,10 +17,10 @@ export default function App({navigation}) {
                 <Image source={require('../assets/Image_96.png')}
                     style={{width: 150, height: 150, marginLeft: 215,}}
                 />
-                <Image source={require('../assets/Image 95.png')}
+                <Image source={require('../assets/Image95.png')}
                     style={{width: 150, height: 150, marginLeft: 20, marginTop: -25}}
                 />
-                <Image source={require('../assets/Image 97.png')}
+                <Image source={require('../assets/Image97.png')}
                     style={{width: 150, height: 150, marginLeft: 200, marginTop: 30,}}
                 />
         </View>
